@@ -1,2 +1,1 @@
-# xml_databases
-Tutorial for XML databases with some example codes.
+This XML repository contains a tutorial on XML.
