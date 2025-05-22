@@ -1,0 +1,12 @@
+---XML Tutorial---
+__What is XML?
+XML, or Extended Markup language, is a version of HTML without predefined tags, made for the creation of databases. Any tag name can be used.
+__How to code in XML?
+You use basic HTML Syntax:
+<tag>
+	<tag>Child</tag>
+	<tag>Child</tag>
+</tag
+but you define your tags yourself, so
+<gggzuiop>hahaha</gggzuiop>
+is possible, yet not that practical. Its structure makes it easy to read or to process with languages like Python.
