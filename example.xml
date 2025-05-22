@@ -1,0 +1,27 @@
+<books>
+    <book>
+        <name>Harry Potter</name>
+        <pages>4101</pages>
+    </book>
+    <book>
+        <name>Lord of the Rings</name>
+        <pages>1500</pages>
+    </book>
+</books>
+<movies>
+    <movie>
+        <name>Star wars</name>
+        <Rating>Good</Rating>
+        <Genre>sci-fi</Genre>
+    </movie>
+    <movie>
+        <name>Mission: Impossible</name>
+        <Rating>Nice</Rating>
+        <Genre>Action</Genre>
+    </movie>
+    <movie>
+        <name>The Life of Brian</name>
+        <Rating>So bad that it's good</Rating>
+        <Genre>Comedy</Genre>
+    </movie>
+</movies>
